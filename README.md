@@ -1,6 +1,7 @@
 # Juego de Cara o Cruz
 
 Este es un juego de cara o cruz creado como parte de un ejercicio del Bootcamp. El juego incluye un botón para girar la moneda y otro para reiniciar los contadores.
+- Despliegue en GitHub Pages: [Juego](https://devdesiree.github.io/Femcoders-T6-CoinGame/)
 
 ## Tecnologías Utilizadas
 
