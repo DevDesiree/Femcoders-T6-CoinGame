@@ -17,6 +17,11 @@ Este es un juego de cara o cruz creado como parte de un ejercicio del Bootcamp. 
 
 - **Contadores de Cara y Cruz:** La aplicación muestra en tiempo real el número de veces que ha salido cara y cruz.
 
+## Captura de la Web
+
+![Coin Game](https://github.com/DevDesiree/Femcoders-T6-CoinGame/assets/123000717/b1c52acf-b203-44ad-9811-19f4ed492b76)
+
+
 ## Cómo Usar
 
 1. Descárgate la carpeta y abre el archivo `index.html` en tu navegador web.
